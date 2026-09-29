@@ -1,0 +1,6 @@
+{
+  "name": "EduGenie AI",
+  "description": "An intelligent, friendly learning assistant for students with interactive study plans, quizzes, notes summarizer, step-by-step doubt solver, and exam prep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
